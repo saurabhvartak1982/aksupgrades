@@ -1,6 +1,9 @@
 # AKS Updates and Upgrades
 AKS related upgrades need to be triggered by the users. AKS also needs to be in the supported range of versions. 
 
+## Pictographic depiction
+![Pictographic depiction](/AKSUpgradesDimensions.png) <br />
+
 ## 1. Types of upgrades and updates for AKS
 Upgrades and updates related to AKS are of 3 types: <br />
 
