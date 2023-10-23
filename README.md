@@ -1,3 +1,5 @@
+# An updated version of this article can be found at -- https://github.com/saurabhvartak1982/aksupgradeguidance
+
 # AKS Updates and Upgrades
 AKS related upgrades need to be triggered by the users. AKS also needs to be in the supported range of versions. 
 
